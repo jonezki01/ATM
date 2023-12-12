@@ -54,7 +54,7 @@ jos 2.3 -> valitse näytöllä summa
 ### ER-kaavio:
 
 
-<img src=ER-kaavio_kuva_ver1.2.png>
+<img src=er_kaavio.png>
 
 ### Databaseen userin luominen ja kirjautuminen  
 
