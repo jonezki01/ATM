@@ -5,6 +5,7 @@ This project simulates an Automated Teller Machine (ATM) with various banking fu
 
 ## Features
 - Database for different accounts accessible via pincode
+<img src=Pincode.png>
 - Check account balance
 - Withdraw funds
 - Check transaction history
