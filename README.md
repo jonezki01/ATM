@@ -8,7 +8,7 @@ This project simulates an Automated Teller Machine (ATM) with various banking fu
 - Check account balance
 - Withdraw funds
 - Check transaction history
-- Change accounts between Debit, Credit or Shared
+- Change accounts between Debit, Credit, or Shared
 
 ### ER-diagram:
 
