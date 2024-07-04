@@ -10,6 +10,6 @@ This project simulates an Automated Teller Machine (ATM) with various banking fu
 - Check transaction history
 - Change accounts between Debit, Credit or Shared
 
-### ER-kaavio:
+### ER-diagram:
 
 <img src=er_kaavio.png>
